@@ -1,1 +1,1 @@
-# [Hazır Projelerimde Kullanacağım React Templatesi](https://react-template.justmert.xyz/)
+# [Yapacağım Projelerimde Kullanacağım React Şablonu](https://react-template.justmert.xyz/)
