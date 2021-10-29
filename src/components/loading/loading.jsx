@@ -7,7 +7,7 @@ export default function Loading(props) {
     const { disableShrink, size } = props;
 
     return (
-        <Box style={{ width: "100%" }} textAlign='center'>
+        <Box position="absolute" left="50%" top="50%" textAlign="center" style={{ transform: "translate(-50%, -50%)" }}>
             <CircularProgress
                 size={size}
                 disableShrink={disableShrink ? true : false}
